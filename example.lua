@@ -3,8 +3,8 @@ local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/t0x
 KeySystem:Create({
     Title = "Your Hub Name", -- ur script name
     Subtitle = "Enter your key to continue", -- preferably keep it as this!
-    LogoId = "rbxassetid://0", -- your logo (required)
-    BannerId = "rbxassetid://0", -- your banner (required)
+    LogoId = "rbxassetid://0", -- your logo (not required, ui auto resizes)
+    BannerId = "rbxassetid://0", -- your banner (not required, ui auto resizes)
     OnSubmit = function(success)
         if success == "Your Key Here" then
             -- loadstring here
