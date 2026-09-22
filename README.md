@@ -6,7 +6,7 @@
 
 An open source key system for Roblox, built to look clean and feel smooth. Drop it in front of your hub, set your branding, and you're done.
 
-**Current version: v1.0.0**
+**Current version: v1.1.0**
 
 ## Features
 
